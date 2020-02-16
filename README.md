@@ -38,6 +38,8 @@ As for the percentage of drivers, we can see there is a huge percentage of drive
 
 ![alt text](https://github.com/juanmguevara/PyBer_Analysis/blob/master/analysis/Fig9.png)
 
+Above is the summary table for the Data set. Really highlighting how urban cities really have a high demand for drivers. Despite the low average ride fare the immense number of rides requested in urban areas really help bring a high total fare; compared to the suburban and rural areas.
+
 ![alt text](https://github.com/juanmguevara/PyBer_Analysis/blob/master/analysis/Fig8.png)
 
-
+The graph highlights the seasonal times which fares/number of drivers is increased. we can see for Urban cities there is an increase in the number of drivers from January to mid-February and after that it becomes volatile until April. Suburban cities trend line is relatively calm with an exception of a small spike mid-February. Rural cities maintain their demand across each month with an exception of April providing the highest fare overall. 
