@@ -26,15 +26,17 @@ The mode for the ride counts for urban trips is ModeResult(mode=array([6]), coun
 
 ![alt text](https://github.com/juanmguevara/PyBer_Analysis/blob/master/analysis/Fig5.png)
 
-
+We can see the bulk of the fares came from the urban cities. Suburban cities have a good medium of the total fares. Rural taking a smaller portion of the overall fare costs.
 
 ![alt text](https://github.com/juanmguevara/PyBer_Analysis/blob/master/analysis/Fig6.png)
 
-
+Results essentially mirroring the above we can see how the total amount of riders were located in urban areas.
 
 ![alt text](https://github.com/juanmguevara/PyBer_Analysis/blob/master/analysis/Fig7.png)
 
+As for the percentage of drivers, we can see there is a huge percentage of drivers in Urban cities compared to Suburban and Rural cities. This means that there is high demand for all of these drivers in Urban areas which corresponds to the number of riders contributed to these areas.
 
+![alt text](https://github.com/juanmguevara/PyBer_Analysis/blob/master/analysis/Fig9.png)
 
 ![alt text](https://github.com/juanmguevara/PyBer_Analysis/blob/master/analysis/Fig8.png)
 
